@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our Text Input AI project! This project is implemented entirely in Python and aims to provide an AI solution for processing and understanding text input.
+Welcome to our Word Guess Input AI project! This project is implemented entirely in Python and aims to provide an AI solution for processing and understanding text input.
 
 ## Features
 - **Pure Python**: The entire project is implemented in Python, with no external dependencies.
